@@ -50,12 +50,6 @@
   <img src="https://img.shields.io/github/stars/OrangeZh1?style=for-the-badge&label=Stars&color=F97316&labelColor=111827" alt="GitHub stars" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/OrangeZh1">
-    <img src="https://ghchart.rshah.org/OrangeZh1" alt="OrangeZh1 的 GitHub Contributions 日历" width="100%" />
-  </a>
-</p>
-
 更多项目和提交记录，可以直接查看我的 <a href="https://github.com/OrangeZh1?tab=repositories">仓库列表</a>。
 
 ### 2026 目标
