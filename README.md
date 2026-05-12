@@ -50,6 +50,12 @@
   <img src="https://img.shields.io/github/stars/OrangeZh1?style=for-the-badge&label=Stars&color=F97316&labelColor=111827" alt="GitHub stars" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/OrangeZh1">
+    <img src="https://ghchart.rshah.org/OrangeZh1" alt="OrangeZh1 的 GitHub Contributions 日历" width="100%" />
+  </a>
+</p>
+
 更多项目和提交记录，可以直接查看我的 <a href="https://github.com/OrangeZh1?tab=repositories">仓库列表</a>。
 
 ### 2026 目标
@@ -59,7 +65,7 @@
 
 ### 一段经历
 
-我从 2005 年小学时期开始接触互联网，最初只是出于好奇，喜欢探索各种网站、工具和新鲜的网络玩法。到了 2021 年，我开始更深入地研究技术，不再只是使用互联网，而是尝试理解它背后的逻辑，并把自己的想法一步步做成可以运行的项目。
+我是 2005 年出生，从小学时期开始接触互联网。最初只是出于好奇，喜欢探索各种网站、工具和新鲜的网络玩法。到了 2021 年，我开始更深入地研究技术，不再只是使用互联网，而是尝试理解它背后的逻辑，并把自己的想法一步步做成可以运行的项目。
 
 现在的我更关注网络技术、Web 开发、小程序开发和 AI 产品开发。希望通过持续学习和实践，把一个个灵感打磨成真正能解决问题、服务大众的软件产品。
 
