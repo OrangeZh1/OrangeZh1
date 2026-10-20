@@ -1,8 +1,5 @@
-<details name="profile-language" markdown="1" lang="zh-CN">
-<summary><strong>🌐 简体中文</strong></summary>
-
 <p align="center">
-  <img src="./assets/profile-banner.zh-CN.svg" alt="橙子 OrangeZh1 — 一个网络爱好者" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="橙子 OrangeZh1 — 一个网络爱好者" width="100%" />
 </p>
 
 <p align="center">
@@ -12,24 +9,24 @@
 </p>
 
 <p align="center">
-  <a href="#qicore-zh">🧩 QiCore-SaaS</a>
+  <a href="#qicore">🧩 QiCore-SaaS</a>
   &nbsp; · &nbsp;
-  <a href="#current-work-zh">🚀 近期项目</a>
+  <a href="#current-work">🚀 近期项目</a>
   &nbsp; · &nbsp;
   <a href="mailto:orange@mcent.cn">✉️ 联系我</a>
   &nbsp; · &nbsp;
-  <a href="https://github.com/OrangeZh1/Design-GPT-Ui-Skills">🛠️ Skills</a>
+  <a href="https://github.com/OrangeZh1/Design-GPT-Ui-Skills">🛠️ 工具</a>
 </p>
 
-<a name="qicore-zh"></a>
+<a name="qicore"></a>
 
-## 🧩 QiCore-SaaS · 我正在重点打磨的框架
+**🧩 QiCore-SaaS · 我正在重点打磨的框架**
 
 **面向商业软件的多应用 SaaS 框架。**
 
 QiCore-SaaS 是我想长期投入的一条主线：把通用能力统一到框架，让每个业务应用保持独立，专注自己的业务，也能持续演进。
 
-### ✨ 核心特点
+**✨ 核心特点**
 
 - **框架与应用分离**：业务模型、规则、路由、后台页面和客户端由应用独立维护。
 - **多应用平台**：同一平台管理多个应用，每个租户绑定自己的应用。
@@ -37,20 +34,20 @@ QiCore-SaaS 是我想长期投入的一条主线：把通用能力统一到框�
 - **统一的后台与客户端基础**：复用控制台组件，以及 H5、小程序的公共页面与能力。
 - **框架与应用联合开发**：源码分别维护，支持本地联调与热更新，方便持续迭代。
 
-### ⚙️ 技术栈
+**⚙️ 技术栈**
 
 | 层级 | 使用技术 |
 | --- | --- |
 | 管理后台 | TypeScript · Vue · Nuxt · Nuxt UI · Tailwind CSS |
 | 服务端 | Node.js · NestJS |
 | 数据层 | MySQL · Redis · Prisma |
-| 客户端与应用接入 | uni-app · H5 · Application SDK |
+| 客户端与应用接入 | uni-app · H5 · 应用 SDK |
 
 🔧 **当前重点**：持续完善 QiCore-SaaS 与开发联调体验，并基于 QiCore-SaaS 开发证件照应用。
 
-<a name="current-work-zh"></a>
+<a name="current-work"></a>
 
-## 🚀 其他近期项目
+**🚀 其他近期项目**
 
 目前主要投入商业软件与 AI 应用开发，也会把实践中有用的开发流程整理成可复用的 Skill 分享出来。
 
@@ -93,15 +90,15 @@ QiCore-SaaS 是我想长期投入的一条主线：把通用能力统一到框�
   </tr>
 </table>
 
-## 🛠️ 工具与分享
+**🛠️ 工具与分享**
 
-### [Design GPT UI Skills ↗](https://github.com/OrangeZh1/Design-GPT-Ui-Skills)
+**[UI 设计工作流 ↗](https://github.com/OrangeZh1/Design-GPT-Ui-Skills)**
 
 把 UI 生图、页面分析、素材裁切与开发交付整理成可复用的 Skill。
 
 <sub>开发工作流 · 公开分享</sub>
 
-## 🧰 技术栈
+**🧰 技术栈**
 
 在项目中使用和实践过的技术，也在持续学习中。
 
@@ -143,7 +140,7 @@ QiCore-SaaS 是我想长期投入的一条主线：把通用能力统一到框�
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&amp;logo=nginx&amp;logoColor=white" alt="Nginx" />
 </p>
 
-## 🌱 从好奇开始
+**🌱 从好奇开始**
 
 <details>
 <summary><strong>更多关于我</strong></summary>
@@ -160,12 +157,12 @@ QiCore-SaaS 是我想长期投入的一条主线：把通用能力统一到框�
 
 </details>
 
-## 🎯 2026 目标
+**🎯 2026 目标**
 
 - **持续完善 QiCore-SaaS 框架**，打磨多应用架构、公共能力与应用接入，支撑实际商业项目。
 - **持续学习 AI**，探索智能体、AI 应用与 Vibe Coding，把学到的方法用进实际项目。
 - **持续做自媒体**，分享技术实践、工具心得和项目开发过程。
-- **点亮一半以上的 GitHub Contributions**，保持持续学习与开发的节奏。
+- **点亮一半以上的 GitHub 贡献图**，保持持续学习与开发的节奏。
 - **保持稳定输出**，把学习、开发和产品迭代沉淀到仓库里。
 
 ---
@@ -173,183 +170,3 @@ QiCore-SaaS 是我想长期投入的一条主线：把通用能力统一到框�
 <p align="center">
   <sub>🍊 保持好奇，认真做产品。欢迎交流。</sub>
 </p>
-
-</details>
-
-<details name="profile-language" markdown="1" lang="en" open>
-<summary><strong>🌐 English</strong></summary>
-
-<p align="center">
-  <img src="./assets/profile-banner.svg" alt="OrangeZh1 — An internet enthusiast" width="100%" />
-</p>
-
-<p align="center">
-  <strong>👋 I'm Orange 🍊</strong><br />
-  🎂 21 years old &nbsp; · &nbsp; ♂ Male<br />
-  Curious · Hands-on · Detail-oriented · Execution-driven
-</p>
-
-<p align="center">
-  <a href="#qicore">🧩 QiCore-SaaS</a>
-  &nbsp; · &nbsp;
-  <a href="#current-work">🚀 Projects</a>
-  &nbsp; · &nbsp;
-  <a href="mailto:orange@mcent.cn">✉️ Contact</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/OrangeZh1/Design-GPT-Ui-Skills">🛠️ Skills</a>
-</p>
-
-<a name="qicore"></a>
-
-## 🧩 QiCore-SaaS — My main project
-
-**A multi-application SaaS framework for commercial software.**
-
-QiCore-SaaS is the foundation I'm investing in for the long term: shared platform capabilities in one place, with business applications that stay independent and can evolve on their own.
-
-### ✨ Core features
-
-- **Framework and app separation** — business models, rules, routes, admin pages, and clients stay with their applications.
-- **Multi-application platform** — manage multiple applications while keeping each tenant bound to its own application.
-- **Shared services through an SDK** — reuse identity, authorization, payments, storage, and other common capabilities.
-- **Consistent admin and client foundations** — shared console components and reusable H5 / Mini Program pages.
-- **Joint local development** — work on the framework and applications together, with separate source trees and hot reload.
-
-### ⚙️ Built with
-
-| Layer | Technologies |
-| --- | --- |
-| Web console | TypeScript · Vue · Nuxt · Nuxt UI · Tailwind CSS |
-| Backend | Node.js · NestJS |
-| Data | MySQL · Redis · Prisma |
-| Clients & integration | uni-app · H5 · Application SDK |
-
-🔧 **Current focus:** keep improving QiCore-SaaS and its development workflow, while building an ID Photo application on the framework.
-
-<a name="current-work"></a>
-
-## 🚀 More of my current work
-
-My current focus is commercial software and AI applications. I also share useful development workflows as reusable skills.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>🔐 QiSSO</strong></p>
-      <p>Unified accounts and single sign-on for authentication and authorization across business applications.</p>
-      <sub>Identity · Single sign-on</sub>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>🛍️ AI E-commerce Design</strong></p>
-      <p>AI-powered design for e-commerce, available as a standalone application or within the application framework.</p>
-      <sub>AI design · E-commerce</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>🎨 Image2</strong></p>
-      <p>AI image and video creation across WeChat Mini Programs, mobile web, and desktop web.</p>
-      <sub>AI creation · Cross-platform</sub>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>📸 ID Photo</strong></p>
-      <p>A QiCore-SaaS application for ID photo generation, downloads, and business management.</p>
-      <sub>ID photos · Mini Program</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>🍪 Campus Snacks</strong></p>
-      <p>A Mini Program and admin system for snack shopping, products, orders, and campus operations.</p>
-      <sub>Campus commerce · Mini Program</sub>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>🤖 AI SCRM</strong></p>
-      <p>Designing an AI-powered SCRM for customer conversations, lead management, knowledge review, and business diagnostics.</p>
-      <sub>Customer operations · In design</sub>
-    </td>
-  </tr>
-</table>
-
-## 🛠️ Tools I share
-
-### [Design GPT UI Skills ↗](https://github.com/OrangeZh1/Design-GPT-Ui-Skills)
-
-A reusable skill for UI generation, page analysis, asset extraction, and development handoff.
-
-<sub>Developer workflow · Public resource</sub>
-
-## 🧰 Tech stack
-
-Technologies I've used in projects and continue to explore.
-
-**Frontend & UI**
-
-<p>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-663399?style=flat-square&amp;logo=css&amp;logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=222222" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Vue-35495E?style=flat-square&amp;logo=vuedotjs&amp;logoColor=4FC08D" alt="Vue" />
-  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&amp;logo=nuxt&amp;logoColor=003B25" alt="Nuxt" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&amp;logo=tailwindcss&amp;logoColor=38BDF8" alt="Tailwind CSS" />
-</p>
-
-**Backend**
-
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&amp;logo=php&amp;logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Node.js-417E38?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&amp;logo=go&amp;logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&amp;logo=nestjs&amp;logoColor=white" alt="NestJS" />
-</p>
-
-**Mini Programs & cross-platform**
-
-<p>
-  <img src="https://img.shields.io/badge/uni--app-2B9939?style=flat-square" alt="uni-app" />
-</p>
-
-**Data & deployment**
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&amp;logo=redis&amp;logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&amp;logo=prisma&amp;logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&amp;logo=nginx&amp;logoColor=white" alt="Nginx" />
-</p>
-
-## 🌱 From curiosity to products
-
-<details>
-<summary><strong>A little more about me</strong></summary>
-
-<p>Hey, I'm Orange 🍊. I'm 21, and I've been exploring the internet since primary school. Websites, software, and new tools always left me wondering: <strong>how does this work, and what could I build with it?</strong></p>
-
-<p>In 2021, I started following that curiosity into code. I've since worked on blogs, websites, and Mini Programs. I enjoy the moment when an idea becomes something you can actually click through and use—and the process of making it better after that first version.</p>
-
-<p>These days, I'm putting that energy into <strong>commercial software and AI products</strong>. QiCore-SaaS is a long-term focus: a framework I want to keep improving through real applications. Alongside QiSSO, my projects include AI e-commerce design, Image2, ID photos, Campus Snacks, and an AI-powered SCRM currently in design. Each one gives me a different business problem to work through.</p>
-
-<p>My toolbox includes React, Vue, and Nuxt for interfaces; PHP, Node.js, and Go for backend work; and tools like MySQL, Docker, and Nginx to bring the pieces together. I like learning with a project in front of me: try something, understand the trade-offs, and keep refining it. 🛠️</p>
-
-<p>AI is another part of that exploration. I'm experimenting with Vibe Coding and reusable Skills, while continuing to improve QiCore-SaaS and my applications. I also want to share more through blogging and content creation: <strong>what I built, what I tried, where I got stuck, and what I learned.</strong> If you're building something too, I'd love to exchange ideas. 👋</p>
-
-</details>
-
-## 🎯 Goals for 2026
-
-- **Keep improving QiCore-SaaS** — refine its architecture, shared services, and application integration for real commercial use.
-- **Keep learning AI** — explore agents, AI applications, and Vibe Coding, and put what I learn into practice.
-- **Create and share content** — document technical practice, useful tools, and the process of building products.
-- **Contribute on more than half the days of the year** — maintain a steady learning and development rhythm on GitHub.
-- **Keep a consistent record** — capture learning, development, and product iteration in my repositories.
-
----
-
-<p align="center">
-  <sub>🍊 Stay curious. Build with care. Let's connect.</sub>
-</p>
-
-</details>
