@@ -1,59 +1,26 @@
-<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Orange profile banner</title>
-  <desc id="desc">A clean developer profile banner with the name OrangeZh1 and abstract interface lines.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">橙子 OrangeZh1 · Commercial Software &amp; AI Applications</title>
+  <desc id="desc">暖橙色个人主页横幅，右侧是由圆环和叶片组成的橙子图案。</desc>
   <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0F172A"/>
-      <stop offset="0.52" stop-color="#172554"/>
-      <stop offset="1" stop-color="#0B1220"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="110" y1="90" x2="1160" y2="300" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#F97316"/>
-      <stop offset="0.45" stop-color="#22D3EE"/>
-      <stop offset="1" stop-color="#A3E635"/>
-    </linearGradient>
-    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
-      <feGaussianBlur stdDeviation="18" result="blur"/>
-      <feColorMatrix in="blur" type="matrix" values="1 0 0 0 0  0 1 0 0 0.36  0 0 1 0 0.12  0 0 0 0.55 0"/>
-    </filter>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#FFF8ED"/><stop offset="1" stop-color="#FFF1DD"/></linearGradient>
+    <linearGradient id="orange" x2="1" y2="1"><stop stop-color="#FFA448"/><stop offset="1" stop-color="#F27632"/></linearGradient>
   </defs>
-
-  <rect width="1280" height="360" fill="url(#background)"/>
-  <path d="M0 310C152 264 243 272 384 302C533 334 656 348 792 290C935 229 1030 158 1280 177V360H0V310Z" fill="#020617" fill-opacity="0.45"/>
-
-  <g opacity="0.18">
-    <path d="M90 70H1190" stroke="#E2E8F0"/>
-    <path d="M90 130H1190" stroke="#E2E8F0"/>
-    <path d="M90 190H1190" stroke="#E2E8F0"/>
-    <path d="M90 250H1190" stroke="#E2E8F0"/>
-    <path d="M170 35V315" stroke="#E2E8F0"/>
-    <path d="M410 35V315" stroke="#E2E8F0"/>
-    <path d="M650 35V315" stroke="#E2E8F0"/>
-    <path d="M890 35V315" stroke="#E2E8F0"/>
-    <path d="M1130 35V315" stroke="#E2E8F0"/>
+  <rect width="1280" height="320" rx="20" fill="url(#bg)"/>
+  <path d="M794 0H1280V320H1040Z" fill="#FCE6CA"/>
+  <circle cx="1094" cy="158" r="186" fill="none" stroke="#E7BC8D" stroke-opacity=".45"/>
+  <circle cx="1094" cy="158" r="145" fill="none" stroke="#E7BC8D" stroke-opacity=".65"/>
+  <g font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+    <text x="60" y="65" fill="#9B552F" font-size="18" letter-spacing="3" font-weight="600">ORANGEZH1 / KEEP BUILDING</text>
+    <text x="56" y="153" fill="#332B25" font-size="68" font-weight="700">OrangeZh1</text>
+    <text x="60" y="211" fill="#795A46" font-size="27">Stay curious. Build with care.</text>
+    <path d="M60 261H106" stroke="#E88243" stroke-width="5" stroke-linecap="round"/>
+    <text x="123" y="268" fill="#87684F" font-size="17" letter-spacing="1">COMMERCIAL SOFTWARE · AI APPLICATIONS</text>
   </g>
-
-  <path d="M138 238C267 121 382 110 517 182C659 258 778 264 906 161C1007 80 1104 85 1192 137" stroke="url(#accent)" stroke-width="5" stroke-linecap="round" filter="url(#softGlow)"/>
-  <path d="M138 238C267 121 382 110 517 182C659 258 778 264 906 161C1007 80 1104 85 1192 137" stroke="url(#accent)" stroke-width="3.5" stroke-linecap="round"/>
-
-  <g transform="translate(92 82)">
-    <rect x="0" y="0" width="410" height="196" rx="18" fill="#020617" fill-opacity="0.68" stroke="#38BDF8" stroke-opacity="0.22"/>
-    <circle cx="30" cy="31" r="6" fill="#F97316"/>
-    <circle cx="53" cy="31" r="6" fill="#FACC15"/>
-    <circle cx="76" cy="31" r="6" fill="#22C55E"/>
-    <text x="28" y="94" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="48" font-weight="800">OrangeZh1</text>
-    <text x="30" y="132" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">网络爱好者 / Builder / Learner</text>
-    <rect x="30" y="154" width="122" height="22" rx="11" fill="#F97316" fill-opacity="0.16" stroke="#FB923C" stroke-opacity="0.5"/>
-    <text x="47" y="170" fill="#FDBA74" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">KEEP BUILDING</text>
-  </g>
-
-  <g transform="translate(806 88)" opacity="0.92">
-    <rect x="0" y="0" width="318" height="184" rx="16" fill="#020617" fill-opacity="0.55" stroke="#E2E8F0" stroke-opacity="0.14"/>
-    <path d="M34 48H196" stroke="#94A3B8" stroke-width="8" stroke-linecap="round"/>
-    <path d="M34 82H258" stroke="#38BDF8" stroke-width="8" stroke-linecap="round"/>
-    <path d="M34 116H222" stroke="#A3E635" stroke-width="8" stroke-linecap="round"/>
-    <path d="M34 150H150" stroke="#FB923C" stroke-width="8" stroke-linecap="round"/>
-    <circle cx="270" cy="50" r="14" fill="#38BDF8" fill-opacity="0.22" stroke="#38BDF8"/>
-    <circle cx="270" cy="116" r="14" fill="#A3E635" fill-opacity="0.22" stroke="#A3E635"/>
-  </g>
+  <circle cx="1085" cy="181" r="86" fill="#D88D50" opacity=".12"/>
+  <circle cx="1076" cy="167" r="86" fill="url(#orange)"/>
+  <path d="M1076 82C1064 49 1085 30 1128 36C1121 65 1105 81 1076 82Z" fill="#73966A"/>
+  <path d="M1080 89C1090 70 1100 58 1110 51" fill="none" stroke="#4D7048" stroke-width="4" stroke-linecap="round"/>
+  <path d="M1018 147C1022 128 1034 113 1050 106" fill="none" stroke="#FFD4A4" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="956" cy="66" r="5" fill="#D6945B"/>
+  <path d="M1190 245V263M1181 254H1199" stroke="#B58255" stroke-width="2"/>
 </svg>
