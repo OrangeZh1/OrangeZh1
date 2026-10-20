@@ -9,10 +9,6 @@
 </p>
 
 <p align="center">
-  <a href="./README.md">English</a> &nbsp; / &nbsp; <strong>简体中文</strong>
-</p>
-
-<p align="center">
   <a href="#qicore">🧩 QiCore-SaaS</a>
   &nbsp; · &nbsp;
   <a href="#current-work">🚀 近期项目</a>
@@ -58,36 +54,36 @@ QiCore-SaaS 是我想长期投入的一条主线：把通用能力统一到框�
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔐 QiSSO</h3>
+      <p><strong>🔐 QiSSO</strong></p>
       <p>统一账号与单点登录服务，连接不同业务系统的身份认证与授权流程。</p>
       <sub>统一账号 · 单点登录</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>🛍️ AI 电商设计应用</h3>
+      <p><strong>🛍️ AI 电商设计应用</strong></p>
       <p>面向电商设计场景的 AI 应用，支持独立运行与框架托管。</p>
       <sub>AI 设计 · 电商应用</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎨 Image2 创作小程序</h3>
+      <p><strong>🎨 Image2 创作小程序</strong></p>
       <p>AI 图片与视频创作应用，覆盖微信小程序、H5 与 PC。</p>
       <sub>AI 创作 · 多端应用</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>📸 证件照小程序</h3>
+      <p><strong>📸 证件照小程序</strong></p>
       <p>基于 QiCore-SaaS 开发证件照应用，完善生成、下载与业务管理流程。</p>
       <sub>证件照 · 微信小程序</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🍪 校园零食优选</h3>
+      <p><strong>🍪 校园零食优选</strong></p>
       <p>围绕校园零食场景开发小程序与管理后台，完善商品、订单和校区运营流程。</p>
       <sub>校园电商 · 小程序</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 AI SCRM</h3>
+      <p><strong>🤖 AI SCRM</strong></p>
       <p>规划智能体接待、客户线索、知识审核与业务诊断，推进产品交互和 UI 方案设计。</p>
       <sub>智能客户运营 · 方案设计中</sub>
     </td>
