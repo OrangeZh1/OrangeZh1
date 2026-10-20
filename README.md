@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="OrangeZh1 — Commercial Software & AI Applications" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="OrangeZh1 — An internet enthusiast" width="100%" />
 </p>
 
 <p align="center">
-  <strong>👋 Hi, I'm Orange. I turn ideas into products for real businesses.</strong><br />
-  Commercial software · WeChat Mini Programs · AI applications
+  <strong>👋 I'm Orange 🍊</strong><br />
+  🎂 21 years old &nbsp; · &nbsp; ♂ Male<br />
+  Curious · Hands-on · Detail-oriented · Execution-driven
 </p>
 
 <p align="center">
@@ -12,69 +13,94 @@
 </p>
 
 <p align="center">
-  <a href="#current-work">🚀 Current work</a>
+  <a href="#qicore">🧩 QiCore-SaaS</a>
+  &nbsp; · &nbsp;
+  <a href="#current-work">🚀 Projects</a>
   &nbsp; · &nbsp;
   <a href="mailto:orange@mcent.cn">✉️ Contact</a>
   &nbsp; · &nbsp;
   <a href="https://github.com/OrangeZh1/Design-GPT-Ui-Skills">🛠️ Skills</a>
 </p>
 
+<a name="qicore"></a>
+
+## 🧩 QiCore-SaaS — My main project
+
+**A multi-application SaaS framework for commercial software.**
+
+QiCore-SaaS is the foundation I'm investing in for the long term: shared platform capabilities in one place, with business applications that stay independent and can evolve on their own.
+
+### ✨ Core features
+
+- **Framework and app separation** — business models, rules, routes, admin pages, and clients stay with their applications.
+- **Multi-application platform** — manage multiple applications while keeping each tenant bound to its own application.
+- **Shared services through an SDK** — reuse identity, authorization, payments, storage, and other common capabilities.
+- **Consistent admin and client foundations** — shared console components and reusable H5 / Mini Program pages.
+- **Joint local development** — work on the framework and applications together, with separate source trees and hot reload.
+
+### ⚙️ Built with
+
+| Layer | Technologies |
+| --- | --- |
+| Web console | TypeScript · Vue · Nuxt · Nuxt UI · Tailwind CSS |
+| Backend | Node.js · NestJS |
+| Data | MySQL · Redis · Prisma |
+| Clients & integration | uni-app · H5 · Application SDK |
+
+🔧 **Current focus:** keep improving QiCore-SaaS and its development workflow, while building an ID Photo application on the framework.
+
 <a name="current-work"></a>
 
-## 🚀 What I'm building
+## 🚀 More of my current work
 
 My current focus is commercial software and AI applications. I also share useful development workflows as reusable skills.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧩 QiCore</h3>
-      <p>A multi-application SaaS framework with shared services, tenant management, and independent business applications.</p>
-      <sub>Framework · Multi-app SaaS</sub>
-    </td>
-    <td width="50%" valign="top">
       <h3>🔐 QiSSO</h3>
       <p>Unified accounts and single sign-on for authentication and authorization across business applications.</p>
       <sub>Identity · Single sign-on</sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🛍️ AI E-commerce Design</h3>
       <p>AI-powered design for e-commerce, available as a standalone application or within the application framework.</p>
       <sub>AI design · E-commerce</sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🎨 Image2</h3>
       <p>AI image and video creation across WeChat Mini Programs, mobile web, and desktop web.</p>
       <sub>AI creation · Cross-platform</sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>📸 ID Photo</h3>
-      <p>A QiCore application for ID photo generation, downloads, and business management.</p>
+      <p>A QiCore-SaaS application for ID photo generation, downloads, and business management.</p>
       <sub>ID photos · Mini Program</sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🍪 Campus Snacks</h3>
       <p>A Mini Program and admin system for snack shopping, products, orders, and campus operations.</p>
       <sub>Campus commerce · Mini Program</sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🤖 AI SCRM</h3>
       <p>Designing an AI-powered SCRM for customer conversations, lead management, knowledge review, and business diagnostics.</p>
       <sub>Customer operations · In design</sub>
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/OrangeZh1/Design-GPT-Ui-Skills">🛠️ Design GPT UI Skills ↗</a></h3>
-      <p>A reusable skill for UI generation, page analysis, asset extraction, and development handoff.</p>
-      <sub>Developer workflow · Public resource</sub>
-    </td>
   </tr>
 </table>
+
+## 🛠️ Tools I share
+
+### [Design GPT UI Skills ↗](https://github.com/OrangeZh1/Design-GPT-Ui-Skills)
+
+A reusable skill for UI generation, page analysis, asset extraction, and development handoff.
+
+<sub>Developer workflow · Public resource</sub>
 
 ## 🧰 Tech stack
 
@@ -123,21 +149,21 @@ Technologies I've used in projects and continue to explore.
 <details>
 <summary><strong>A little more about me</strong></summary>
 
-<p>Hey, I'm Orange 🍊. I was born in 2005, and I've been exploring the internet since primary school. Websites, software, and new tools always left me wondering: <strong>how does this work, and what could I build with it?</strong></p>
+<p>Hey, I'm Orange 🍊. I'm 21, and I've been exploring the internet since primary school. Websites, software, and new tools always left me wondering: <strong>how does this work, and what could I build with it?</strong></p>
 
 <p>In 2021, I started following that curiosity into code. I've since worked on blogs, websites, and Mini Programs. I enjoy the moment when an idea becomes something you can actually click through and use—and the process of making it better after that first version.</p>
 
-<p>These days, I'm putting that energy into <strong>commercial software and AI products</strong>. QiCore is a long-term focus: a framework I want to keep improving through real applications. Alongside QiSSO, my projects include AI e-commerce design, Image2, ID photos, Campus Snacks, and an AI-powered SCRM currently in design. Each one gives me a different business problem to work through.</p>
+<p>These days, I'm putting that energy into <strong>commercial software and AI products</strong>. QiCore-SaaS is a long-term focus: a framework I want to keep improving through real applications. Alongside QiSSO, my projects include AI e-commerce design, Image2, ID photos, Campus Snacks, and an AI-powered SCRM currently in design. Each one gives me a different business problem to work through.</p>
 
 <p>My toolbox includes React, Vue, and Nuxt for interfaces; PHP, Node.js, and Go for backend work; and tools like MySQL, Docker, and Nginx to bring the pieces together. I like learning with a project in front of me: try something, understand the trade-offs, and keep refining it. 🛠️</p>
 
-<p>AI is another part of that exploration. I'm experimenting with Vibe Coding and reusable Skills, while continuing to improve QiCore and my applications. I also want to share more through blogging and content creation: <strong>what I built, what I tried, where I got stuck, and what I learned.</strong> If you're building something too, I'd love to exchange ideas. 👋</p>
+<p>AI is another part of that exploration. I'm experimenting with Vibe Coding and reusable Skills, while continuing to improve QiCore-SaaS and my applications. I also want to share more through blogging and content creation: <strong>what I built, what I tried, where I got stuck, and what I learned.</strong> If you're building something too, I'd love to exchange ideas. 👋</p>
 
 </details>
 
 ## 🎯 Goals for 2026
 
-- **Keep improving QiCore** — refine its architecture, shared services, and application integration for real commercial use.
+- **Keep improving QiCore-SaaS** — refine its architecture, shared services, and application integration for real commercial use.
 - **Keep learning AI** — explore agents, AI applications, and Vibe Coding, and put what I learn into practice.
 - **Create and share content** — document technical practice, useful tools, and the process of building products.
 - **Contribute on more than half the days of the year** — maintain a steady learning and development rhythm on GitHub.
